@@ -16,7 +16,7 @@
   tasks:
 
   # Reverse list when powering down
-  - name: Reverse order when shutting donw
+  - name: Reverse order when shutting down
     set_fact:
       xen_machines: "{{ xen_machines | reverse | list }}"
     when: power_state == "shutdown-guest"
