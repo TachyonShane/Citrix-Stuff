@@ -1,6 +1,6 @@
 # Windows 10 Optimizations for VDI #
 ## Optimizing the Default Profile ##
-The default profile is used as a template for all new users accessing a system. Making it leaner will enhance login times for new users. To do so, follow the following steps outline by James Rankin<sup>1,2</sup>:
+The default profile is used as a template for all new users accessing a system. Making it leaner will enhance login times for new users. To do so, follow the following steps outlined by James Rankin<sup>1,2</sup>:
 
 1) Install Windows 10 on your virtual machine. When the "Let's start with region. Is this right?" screen appears, press **Ctrl+Shift+F3**.
 2) The system will enter Audit Mode. Close the sysprep window.
