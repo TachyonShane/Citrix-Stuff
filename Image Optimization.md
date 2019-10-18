@@ -32,6 +32,7 @@ There are a number of optimizers available for VDI desktops. They do many of the
 - [Citrix Optimizer](https://support.citrix.com/article/CTX224676)
 - [VMware OS Optimization Tool](https://flings.vmware.com/vmware-os-optimization-tool)
 - [JGSpiers Windows 10 Optimization Script](https://www.jgspiers.com/windows-10-1803-optimisation-script/)
+- [The VDI Guys W10_1803_VDI_Optimize](https://github.com/TheVDIGuys/W10_1803_VDI_Optimize)
 
 I like to keep these in a .zip file on a network share along with the unattend.xml file and the following script that cleans up the default profile (again, thanks to James Rankin<sup>1</sup>).
 ```
