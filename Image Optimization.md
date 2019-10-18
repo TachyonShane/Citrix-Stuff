@@ -28,7 +28,7 @@ The default profile is used as a template for all new users accessing a system. 
 9) When the system reboots, finish the installation wizard.
 
 ## Running Optimizers ##
-There are a number of optimizers available for VDI desktops. They do many of the same things, but each optimizer usually performs unique optimizations. Three useful ones are:
+There are a number of optimizers available for VDI desktops. They do many of the same things, but each optimizer usually performs unique optimizations. Four useful ones are:
 - [Citrix Optimizer](https://support.citrix.com/article/CTX224676)
 - [VMware OS Optimization Tool](https://flings.vmware.com/vmware-os-optimization-tool)
 - [JGSpiers Windows 10 Optimization Script](https://www.jgspiers.com/windows-10-1803-optimisation-script/)
